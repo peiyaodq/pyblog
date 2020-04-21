@@ -1,9 +1,17 @@
 baseURL = "http://example.org/"
-languageCode = "zh-cmn-Hans"
+languageCode = "zh-CN"
 title = "佩瑶小屋"
 theme = "dream"
 defaultContentLanguage = "zh"
+enableEmoji = true      
+enableRobotsTXT = true  
+googleAnalytics = ""   
 hasCJKLanguage = true
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
 
 [markup]
   [markup.goldmark]
