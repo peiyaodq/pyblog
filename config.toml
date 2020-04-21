@@ -4,3 +4,28 @@ title = "佩瑶小屋"
 theme = "dream"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  background = "black"
+  linkColor = "seagreen"
+
+  author = "佩瑶"
+  description = "佩瑶的作品小屋"
+  avatar = "/img/avatar.jpg"
+  motto = ""
+  
+  email = "346765147@qq.com"
+
+  siteStartYear = 2019
+
+  favicon = "/img/avatar.jpg"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404Button = true
