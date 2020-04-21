@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cmn-Hans"
+title = "佩瑶小屋"
+theme = "dream"
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
