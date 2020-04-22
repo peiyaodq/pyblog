@@ -1,3 +1,6 @@
 [submodule "themes/dream"]
 	path = themes/dream
 	url = https://github.com/g1eny0ung/hugo-theme-dream.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:peiyaodq/peiyaodq.github.io.git
