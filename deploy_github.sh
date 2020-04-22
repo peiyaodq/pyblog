@@ -9,4 +9,4 @@ echo $domain > public/CNAME
 
 mkdir -p blog
 yes | cp -r ./public/* ./blog/
-cd blog && git add . && git commit -m "${time}" && git push -u origin master && cd ../
+cd blog && git add . && git commit -m "${time}" && git push -u origin master && cd ../ && git add . && git commit -m "${time}" && git push -u origin master
