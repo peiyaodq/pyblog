@@ -3,9 +3,9 @@ title: 《云裳羽衣》全新累充套装【沙漠明珠】、【仙境奇遇�
 date: 2020-03-17T16:33:41+08:00
 lastmod: 2020-03-17T16:33:41+08:00
 author: 佩瑶
-cover: /img/pv/weinie.jpg
-categories: ["云裳羽衣"]
-tags: ["时装"]
+cover: /img/ysyy/march648.jpg
+categories: ["云裳羽衣时装展示"]
+tags: ["云裳羽衣时装展示"]
 # showcase: true
 draft: true
 ---
