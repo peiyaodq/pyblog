@@ -1,7 +1,7 @@
 ---
 title: 《云裳羽衣》全新重阳节活动套装【东篱远思】首曝！
-date: 2019-9-30T16:33:41+08:00
-lastmod: 2019-9-30T16:33:41+08:00
+date: 2019-09-30T16:33:41+08:00
+lastmod: 2019-09-30T16:33:41+08:00
 author: 佩瑶
 cover: /img/ysyy/doubleninth.jpg
 categories: ["云裳羽衣时装展示"]
