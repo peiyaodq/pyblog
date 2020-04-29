@@ -5,7 +5,7 @@ lastmod: 2020-04-09T17:33:35+08:00
 author: 佩瑶
 cover: /img/pv/yeqijun.jpg
 categories: ["个人练习"]
-tags: ["月刊少女野崎君"]
+tags: ["个人练习"]
 # showcase: true
 draft: true
 ---

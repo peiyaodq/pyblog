@@ -4,8 +4,8 @@ date: 2019-03-07T13:35:47+08:00
 lastmod: 2019-03-07T13:35:47+08:00
 author: 佩瑶
 cover: /img/ysyy/nanniandejing.jpg
-categories: ["云裳羽衣同人视频"]
-tags: ["云裳羽衣同人视频"]
+categories: ["个人练习"]
+tags: ["个人练习"]
 # showcase: true
 draft: true
 ---

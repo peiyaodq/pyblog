@@ -5,7 +5,7 @@ lastmod: 2020-04-14T16:33:41+08:00
 author: 佩瑶
 cover: /img/pv/weinie.jpg
 categories: ["个人练习"]
-tags: ["秦时明月"]
+tags: ["个人练习"]
 # showcase: true
 draft: true
 ---
